@@ -1,0 +1,153 @@
+table{                                /* сделала временное разграничение для таблиц, чтобы видеть границы  */
+width: 100%;
+
+}
+td{
+ vertical-align: top;
+border: 2px solid grey;
+}
+.logo{
+width: 600px;
+margin-left: 100px;
+margin-bottom: -10px;                                               /*  лого */
+}
+.vkl{
+margin-top: -100px;
+}
+.vkladki_1{
+width: 25%;
+font-family: 'Roboto', sans-serif;                                  /*  вкладки */
+font-weight: bold;
+font-size: 28px;
+color: #54565b;
+text-align: right;
+}
+.vkladki_2{
+width: 15%;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 28px;
+color: #54565b;
+text-align: right;
+}
+.vkladki_3{
+width: 20%;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 28px;
+color: #54565b;
+text-align: center;
+}
+.vkladki_4{
+width: 15%;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 28px;
+color: #54565b;
+}
+.vkladki_5{
+width: 25%;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 28px;
+color: #54565b;
+}
+.zagolovki{
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 32px;                                               /*  заголовки */
+text-align: center;
+margin-bottom: -10px;
+color: #4682b4;
+}
+.punktir{
+width: 400px;                                                     /*  пунктир */
+margin-top: -60px;
+margin-bottom: -20px;
+margin-left: 550px;
+}
+.col1{
+width: 65%;                                                    /* размер таблиц текста и фото  */
+}
+.col2{
+width: 35%;
+}
+.my_photo{
+margin-left: 40px;
+width: 250px;
+}
+.text1{
+font-family: 'PT Serif', sans-serif;
+font-size: 20px;
+line-height: 1.5;
+margin-left: 200px;
+color: #54565b;                                             /* стиль текста +абзац  */
+}
+.text2{
+font-family: 'PT Serif', sans-serif;
+font-size: 20px;
+line-height: 1.5;
+margin-left: 200px;
+color: #54565b;
+}
+.text3{
+font-family: 'PT Serif', sans-serif;
+font-size: 20px;
+line-height: 1.5;
+margin-left: 200px;
+color: #54565b;
+}
+.poisk{
+margin-left: 700px;
+margin-top: -50px;
+width: 600px;
+}
+.text_4{
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 28px;
+color: #54565b;
+text-align: right;
+}
+.col3{
+width: 40%;                                                    /* размер таблиц текста и фото  */
+}
+.col4{
+width: 60;
+}
+.text5{
+font-family: 'PT Serif', sans-serif;
+font-size: 20px;
+line-height: 1.5;
+margin-left: 100px;
+color: #54565b;                                             /* стиль текста +абзац  */
+}
+.otzyv{
+width: 1000px;
+margin-top: -100px;
+margin-left: 220px;
+}
+.futer{
+width: 250px;
+margin-left: 120px;
+}
+a.knopka {
+font-size: 24px;
+  color: #fff; /* цвет текста */
+  text-decoration: none; /* убирать подчёркивание у ссылок */
+  user-select: none; /* убирать выделение текста */
+  background: #4682b4; /* фон кнопки */
+  padding: .7em 1.5em; /* отступ от текста */
+  outline: none; /* убирать контур в Mozilla */
+  margin-left: 630px;
+  border-radius: 12px;
+}
+a.knopka:hover { background: #54565b; } /* при наведении курсора мышки */
+a.knopka:active { background: #4682b4; } /* при нажатии */
+
+.pay{
+width: 700px;
+margin-top: 50px;
+margin-left: 400px;
+}
+
